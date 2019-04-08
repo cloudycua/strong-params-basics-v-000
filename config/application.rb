@@ -13,8 +13,8 @@ module BlogFlash
     # -- all .rb files in that directory are automatically loaded.
 
 # DELETE THIS LINE
-# Rails needs to be told what parameters are 
-# allowed to be submitted through the form to the database. 
+# Rails needs to be told what parameters are
+# allowed to be submitted through the form to the database.
 # The default is to let NOTHING through. This line allows everything.
 #    config.action_controller.permit_all_parameters = true
 
